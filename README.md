@@ -88,7 +88,7 @@ The backend can be tested by using the examples from the [API specification](htt
 
 ## Contributors
 
-- SENG302 teaching team
+- University of Canterbury SENG302 teaching team
 - Griffin Baxter
 - Zhedong Cao
 - Billie Johnson
